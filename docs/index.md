@@ -9,9 +9,9 @@ If you have a Discord Server that is not listed here, feel free to open a [Pull 
 
 ## Categories
 
-- [Minecraft](minecraft)  
+- [Minecraft](server/minecraft)  
 Server for Minecraft-related support. This also includes CraftBukkit, Spigot, PaperMC, BungeeCord, etc.
-- [Discord](discord)  
+- [Discord](server/discord)  
 Server for Discord-related stuff like Bot development, bug reports, etc.
 
 ## Credits
