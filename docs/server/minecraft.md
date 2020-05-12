@@ -54,7 +54,7 @@ HelpChat | PAPI is a Discord for general plugin support, but also the main place
 https://discord.gg/FtArYRQ
 
 ----
-#### LuckPerms
+#### :discord-verified: LuckPerms
 Permission plugin for Spigot, Sponge, Nukkit, BungeeCord and more.
 
 **Invite**:  
@@ -80,3 +80,10 @@ Support Server for the plugin TAB.
 
 **Invite**:  
 https://discord.gg/EaSvdk6
+
+----
+#### JustMaffie's Plugins
+Support Server for all of JustMaffie's plugins.
+
+**Invite**:  
+https://discord.gg/Dfn99JE
