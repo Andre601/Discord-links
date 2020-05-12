@@ -37,6 +37,16 @@ Discord Server for support with Software developed by SpongePowered.
 https://discord.gg/sponge
 
 ----
+# Server Panels
+Discord server for administrative panels of Minecraft or other games
+
+#### :discord-verified: Pterodactyl
+Support for pterodactyl support
+
+**Invite**:  
+https://discord.com/invite/QRDZvVm
+
+----
 ## Plugins
 Discord server focused around support with one or multiple plugins.
 
@@ -87,3 +97,73 @@ Support Server for all of JustMaffie's plugins.
 
 **Invite**:  
 https://discord.gg/Dfn99JE
+
+----
+#### ProtocolSupport
+Support Server for the protocol support plugin
+
+**Invite**:  
+https://discord.gg/invite/x935y8p
+
+----
+#### Pixelmon
+Support Server for the mod and server pixelmon reforged into sponge servers
+
+**Invite**:  
+https://discord.com/invite/pixelmon
+
+----
+#### MythicCraft - MythicCraft.io
+MythicCraft - MythicCraft.io is for support MythicalMobs and MythicCraft.io plugin
+
+**Invite**:  
+https://discord.com/invite/K3tqXfT
+
+----
+#### Towny Advancend
+Support Server for the towny advanced plugin
+
+**Invite**:  
+https://discord.com/invite/gnpVs5m
+
+----
+#### CodedRed's plugins
+Support Server for all of CodedRed's plugins.
+
+**Invite**:  
+https://discord.com/invite/zMzXSgk
+
+----
+#### MyPet
+Support Server for MyPet
+
+**Invite**:  
+https://discord.com/invite/GtcdWFw
+
+----
+#### CodeHusky
+Support Server for HuskyCrates and HuskyUI sponge plugins
+
+**Invite**:  
+https://discord.gg/FSETtcx
+
+----
+#### BauxiteDEV
+BauxiteDEV is for support DynamicBungeeAuth plugin.
+
+**Invite**:  
+https://discord.com/invite/GzQf686
+
+----
+#### IlegalStack
+Support Server for "Dupe Fixes / Illegal Stack Remover" plugin.
+
+**Invite**:  
+https://discord.gg/Gsx4QaT 
+
+----
+#### IntellectualSites
+IntellectualSites is for support PlotSquared plugin
+
+**Invite**:  
+https://discord.com/invite/KxkjDVg
