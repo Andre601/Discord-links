@@ -1,22 +1,28 @@
-site_name: MkDocs Template
-site_description: 'A template for future MkDocs wikis'
+site_name: Discord Links
+site_description: 'A unofficial list of popular Discord Servers'
 site_author: 'Andre_601'
 
 #
 # This section uses normal HTML, so normal HTML tags and specific text like &copy; are supported
 copyright: |
-  &copy; Author
+  &copy; Andre601 and all contributors.
+  <br>This website is not affiliated, endorsed or created by Discord Inc.
+  <br>The Discord icon is property of Discord Inc. and used under the <a href="https://fontawesome.com/license" target="_blank">Creative Commons Attribution 4.0 International License</a>.
 
 docs_dir: docs/
 
 #
 # These three options are optional.
-repo_name: Andre601/mkdocs-template
-repo_url: https://github.com/Andre601/mkdocs-template
+repo_name: Andre601/Discord-Links
+repo_url: https://github.com/Andre601/Discord-Links
 #edit_uri: tree/master/docs # If you want the Edit option/URL to be different.
 
 nav:
-  - Welcome: index.md
+  - Main:
+    - Home: index.md
+  - Server:
+    - Discord: server/discord.md
+    - Minecraft: server/minecraft.md
 
 theme:
   name: 'material'
@@ -24,14 +30,15 @@ theme:
   # Uncomment the below option to use the "theme extension" option
   # to customize certain aspects of the Material Theme.
   #
-  #custom_dir: 'theme'
+  custom_dir: 'theme'
   #
   # https://squidfunk.github.io/mkdocs-material/getting-started/#favicon
-  favicon: 'assets/images/favicon.png'
+  favicon: 'assets/img/favicon.png'
+  logo: 'assets/img/favicon.png'
   #
   # https://squidfunk.github.io/mkdocs-material/getting-started/#color-palette
   palette:
-    primary: 'indigo'
+    primary: 'teal'
     accent: 'indigo'
   #
   # https://squidfunk.github.io/mkdocs-material/getting-started/#feature-flags
@@ -41,14 +48,13 @@ theme:
   #
   # https://squidfunk.github.io/mkdocs-material/getting-started/#icons
   icon:
-    logo: 'material/library'
     repo: 'material/library'
 
 #
 # You can uncomment this line together with one of the below lines to add custom CSS to the documentation.
-#extra_css:
+extra_css:
 #  - 'assets/css/extra.css' # Uncomment this line if you want to use both dark theme and the tabbed css.
-#  - 'assets/css/styling/dark.css' # Uncomment this line if you only want Dark theme
+  - 'assets/css/styling/dark.css' # Uncomment this line if you only want Dark theme
 #  - 'assets/css/extensions/tabbed.css' # Uncomment this line if you only want the CSS for tabbed
 
 extra:
@@ -56,7 +62,7 @@ extra:
   # https://squidfunk.github.io/mkdocs-material/getting-started/#adding-social-links
   social:
     - icon: 'fontawesome/brands/github'
-      link: 'https://github.com/Andre601/mkdocs-template'
+      link: 'https://github.com/Andre601/Discord-links'
   #
   # https://squidfunk.github.io/mkdocs-material/getting-started/#adding-a-web-app-manifest
   #manifest: manifest.webmanifest
@@ -80,14 +86,19 @@ markdown_extensions:
   #- pymdownx.caret:
   #- pymdownx.critic:
   #- pymdownx.details:
-  #- pymdownx.emoji:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - 'theme/icons'
   #- pymdownx.escapeall:
   #- pymdownx.extra:
   #- pymdownx.extrarawhtml:
   #- pymdownx.highlight:
   #- pymdownx.inlinehilite:
   #- pymdownx.keys:
-  #- pymdownx.magiclink:
+  - pymdownx.magiclink:
   #- pymdownx.mark:
   #- pymdownx.pathconverter:
   #- pymdownx.progressbar:

@@ -1,14 +1,14 @@
-# MkDocs Template
-Welcome to the MkDocs Template Documentation.
+[Discord]: https://discord.com
+[Pull request]: https://github.com/Andre601/Discord-links/pulls
 
-This is nothing more than a basic page to start using MkDocs!
+# Discord Links
+This website contains a list of (known) support Server on [Discord].
 
-## Getting started
-To start, clone the Repoitory (Click the "Use this template" button) and edit this file here.  
-You can also just add new files and alter some settings.
+If you have a Discord Server that is not listed here, feel free to open a [Pull request] to add it.
 
-More can be found on the [README.md](https://github.com/Andre601/mkdocs-template/blob/master/README.md)
+## Categories
 
-## Manual Deploy
-To manually deploy the sites from your local repository, use the `gh-deploy` command from MkDocs.  
-Just make sure that you have set a GitHub repository in the `mkdocs.yml` to push towards.
+- [Minecraft](minecraft)  
+Server for Minecraft-related support. This also includes CraftBukkit, Spigot, PaperMC, BungeeCord, etc.
+- [Discord](discord)  
+Server for Discord-related stuff like Bot development, bug reports, etc.
