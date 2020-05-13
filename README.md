@@ -1,3 +1,6 @@
+[Discord]: https://github.com/Andre601/Discord-Links/blob/master/docs/server/discord.md
+[Minecraft]: https://github.com/Andre601/Discord-Links/blob/master/docs/server/minecraft.md
+
 # Discord Links
 This is the repository of the Discord Links site, which contains invites to various Discord server.
 
@@ -5,9 +8,9 @@ The Server are split up into separate categories, which are listed below.
 
 ## Categories
 
-- Discord  
+- [Discord]  
 Server revolving around Discord related stuff, being it official server by Discord or community-driven ones.
-- Minecraft  
+- [Minecraft]  
 Server for Minecraft-related topics. From vanilla to modded Minecraft (i.e. Spigot).
 
 Have an idea for a category not listed here?  
@@ -28,5 +31,7 @@ A brief description about the server's main topics.
 https://discord.gg/invitehere
 ```
 
-**Note**:  
-When the Discord server is verified or partnered will you need to also add `:discord-verified:` or `:discord-partner:` in front of the name respectively, to display a icon.
+> **Note**:  
+> - Verified or partnered server require you to add either `:discord-verified:` or `:discord-partner:` in front of the Name.  
+> This will display a badge in front of the name.
+> - The Server are listed in alphabetical order (ignoring the aforementioned badges).
