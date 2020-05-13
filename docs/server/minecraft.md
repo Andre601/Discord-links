@@ -37,14 +37,12 @@ Discord Server for support with Software developed by SpongePowered.
 https://discord.gg/sponge
 
 ----
-# Server Panels
-Discord server for administrative panels of Minecraft or other games
 
 #### :discord-verified: Pterodactyl
 Support for pterodactyl support
 
 **Invite**:  
-https://discord.com/invite/QRDZvVm
+https://discord.gg/invite/QRDZvVm
 
 ----
 ## Plugins
@@ -110,35 +108,35 @@ https://discord.gg/invite/x935y8p
 Support Server for the mod and server pixelmon reforged into sponge servers
 
 **Invite**:  
-https://discord.com/invite/pixelmon
+https://discord.gg/pixelmon
 
 ----
 #### MythicCraft - MythicCraft.io
 MythicCraft - MythicCraft.io is for support MythicalMobs and MythicCraft.io plugin
 
 **Invite**:  
-https://discord.com/invite/K3tqXfT
+https://discord.gg/K3tqXfT
 
 ----
 #### Towny Advancend
 Support Server for the towny advanced plugin
 
 **Invite**:  
-https://discord.com/invite/gnpVs5m
+https://discord.gg/gnpVs5m
 
 ----
 #### CodedRed's plugins
 Support Server for all of CodedRed's plugins.
 
 **Invite**:  
-https://discord.com/invite/zMzXSgk
+https://discord.gg/zMzXSgk
 
 ----
 #### MyPet
 Support Server for MyPet
 
 **Invite**:  
-https://discord.com/invite/GtcdWFw
+https://discord.gg/GtcdWFw
 
 ----
 #### CodeHusky
@@ -152,7 +150,7 @@ https://discord.gg/FSETtcx
 BauxiteDEV is for support DynamicBungeeAuth plugin.
 
 **Invite**:  
-https://discord.com/invite/GzQf686
+https://discord.gg/GzQf686
 
 ----
 #### IlegalStack
@@ -166,4 +164,4 @@ https://discord.gg/Gsx4QaT
 IntellectualSites is for support PlotSquared plugin
 
 **Invite**:  
-https://discord.com/invite/KxkjDVg
+https://discord.gg/KxkjDVg
