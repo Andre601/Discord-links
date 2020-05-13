@@ -35,3 +35,13 @@ The Structure of a Server entry is simple:
 - `<server name>` is the official name of the Discord. The Server should be added in alphabetical order (The above text doesn't affect this).
 - `<description>` should either be a short summary of the Discord, or a official tagline it has.
 - `<discord invite>` has to be a `discord.gg` invite! Any other invite (including `discord.com/invite/`) are not allowed. If the Discord is verified/partnered, make sure to use the vanity URL they have.
+
+#### Example
+```markdown
+----
+#### :discord-verified: Discord Developer
+Server all about development with/for Discord (i.e. Bot development).
+
+**Invite**:  
+https://discord.gg/discord-developers
+```
