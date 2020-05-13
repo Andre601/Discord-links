@@ -21,8 +21,18 @@ nav:
   - Main:
     - Home: index.md
   - Server:
-    - Discord: server/discord.md
-    - Minecraft: server/minecraft.md
+    - Categories: server/index.md
+    - Discord:
+      - Index: server/discord/index.md
+      - Bot Lists: server/discord/bot-lists.md
+      - Community: server/discord/community.md
+      - Official: server/discord/official.md
+      - Unofficial: server/discord/unofficial.md
+    - Minecraft:
+      - Index: server/minecraft/index.md
+      - Hosting: server/minecraft/hosting.md
+      - Plugins: server/minecraft/plugins.md
+      - Software: server/minecraft/software.md
 
 theme:
   name: 'material'
@@ -48,7 +58,7 @@ theme:
   #
   # https://squidfunk.github.io/mkdocs-material/getting-started/#icons
   icon:
-    repo: 'material/library'
+    repo: 'fontawesome/brands/github-square'
 
 #
 # You can uncomment this line together with one of the below lines to add custom CSS to the documentation.
