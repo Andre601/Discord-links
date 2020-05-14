@@ -1,7 +1,12 @@
 [Discord]: https://github.com/Andre601/Discord-Links/blob/master/docs/server/discord
 [Minecraft]: https://github.com/Andre601/Discord-Links/blob/master/docs/server/minecraft
 
+[badge]: https://github.com/Andre601/Discord-Links/workflows/Deploy%20Site/badge.svg
+[action]: https://github.com/Andre601/Discord-Links/actions?query=workflow:"Deploy+Site"
+
 # Discord Links
+[![badge]][action]
+
 This is the repository of the Discord Links site, which contains invites to various Discord server.
 
 The Server are split up into separate categories, which are listed below.
