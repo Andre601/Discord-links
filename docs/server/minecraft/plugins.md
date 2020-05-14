@@ -40,7 +40,7 @@ https://discord.gg/enginehub
 Home of GriefPrevention and GriefDefender plugin
 
 **Invite**
-https://discord.com/invite/jy4FQDz
+https://discord.gg/jy4FQDz
 
 ----
 #### HelpChat | PAPI
