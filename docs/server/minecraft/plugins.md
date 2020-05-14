@@ -36,6 +36,13 @@ Home of WorldEdit, WorldGuard and CraftBook
 https://discord.gg/enginehub
 
 ----
+#### GriefPrevention
+Home of GriefPrevention and GriefDefender plugin
+
+**Invite**
+https://discord.gg/jy4FQDz
+
+----
 #### HelpChat | PAPI
 Home of several plugins including PlaceholderAPI and also a general place for plugin support.
 
