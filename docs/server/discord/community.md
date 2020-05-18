@@ -8,6 +8,13 @@ Discord Server about topics, that don't match any of the other categories.
     :discord-partner: indicates a partnered Server.
 
 ----
+#### BotBlock
+BotBlock (BotBlock.org) is a site that aims to list all known Bot lists for Discord.
+
+**Invite**:  
+https://discord.gg/npjccFR
+
+----
 #### Fluxpoint Development
 Discord for support with all bots made by Fluxpoint Development and also for support with their APIs.
 
