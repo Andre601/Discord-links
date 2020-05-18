@@ -1,10 +1,8 @@
-[BotBlock.org]: https://botblock.org
-
 <a href=".." class=md-button md-button--primary">Go Back</a>
 
 # Bot Lists
 All (known) Bot lists.  
-It's recommendet to check out [BotBlock.org] for an up-to-date list of all Lists and also a API to interact with those Lists.
+It's recommendet to check out [BotBlock.org](../community#botblock) for an up-to-date list of all Lists and also a API to interact with those Lists.
 
 !!! info "Icons"
     :discord-verified: indicates a verified Server.  
