@@ -104,6 +104,13 @@ Support for MythicCraft plugins.
 https://discord.gg/K3tqXfT
 
 ----
+#### NoCheatPlus
+Support for the plugin NoCheatPlus.
+
+**Invite**:  
+https://discord.gg/NASKHYc
+
+----
 #### Nucleus
 Support Server for the Essentials-like Sponge plugin Nucleus.
 
