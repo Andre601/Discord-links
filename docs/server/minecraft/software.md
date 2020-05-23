@@ -1,9 +1,16 @@
 --8<-- "button.md"
 
 # Software
-This page lists Server about software for Minecraft. This can be almost anything from Server software (i.e. Spigot) to Server Panels.
+This page lists Server about software for Minecraft. This can be almost anything from Server software (i.e. Spigot) to Server Panels and even CI.
 
 --8<-- "icons.md"
+
+----
+#### CodeMC.io
+CodeMC.io is a public CI site that welcomes open source projects of all kinds.
+
+**Invite**:  
+https://discord.gg/AGcFMu6
 
 ----
 #### Forge
