@@ -9,10 +9,10 @@ If you have a Discord Server that is not listed here, feel free to open a [Pull 
 
 ## Categories
 
-- [Minecraft](server/minecraft)  
-Server for Minecraft-related support. This also includes CraftBukkit, Spigot, PaperMC, BungeeCord, etc.
 - [Discord](server/discord)  
 Server for Discord-related stuff like Bot development, bug reports, etc.
+- [Minecraft](server/minecraft)  
+Server for Minecraft-related support. This also includes CraftBukkit, Spigot, PaperMC, BungeeCord, etc.
 
 ## Credits
 The Logo contains the Discord icon, which was provided by Font Awesome under the [Creative Commons Attribution 4.0 International License][license] and was modified by Andre601.
