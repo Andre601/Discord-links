@@ -1,11 +1,9 @@
-<a href=".." class=md-button md-button--primary">Go Back</a>
+--8<-- "button.md"
 
 # Community
 Discord Server about topics, that don't match any of the other categories.
 
-!!! info "Icons"
-    :discord-verified: indicates a verified Server.  
-    :discord-partner: indicates a partnered Server.
+--8<-- "icons.md"
 
 ----
 #### BotBlock

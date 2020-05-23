@@ -1,11 +1,9 @@
-<a href=".." class=md-button md-button--primary">Go Back</a>
+--8<-- "button.md"
 
 # Plugins
 Discord Server for Plugin support, being it for a single plugin, or multiple ones.
 
-!!! info "Icons"
-    :discord-verified: indicates a verified Server.  
-    :discord-partner: indicates a partnered Server.
+--8<-- "icons.md"
 
 ----
 #### CodeHusky

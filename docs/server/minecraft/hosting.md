@@ -1,11 +1,9 @@
-<a href=".." class=md-button md-button--primary">Go Back</a>
+--8<-- "button.md"
 
 # Hosting
 Discord Server of Companies for Minecraft Server hosting.
 
-!!! info "Icons"
-    :discord-verified: indicates a verified Server.  
-    :discord-partner: indicates a partnered Server.
+--8<-- "icons.md"
 
 ----
 #### PebbleHost
