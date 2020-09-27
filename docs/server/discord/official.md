@@ -17,7 +17,7 @@ https://discord.gg/discord-developers
 Server for Discord Events.
 
 **Invite**:  
-https://discord.gg/discord-events
+https://discord.gg/discord-townhall
 
 ----
 #### :discord-verified: Discord Testers
